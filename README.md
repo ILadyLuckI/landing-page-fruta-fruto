@@ -6,11 +6,11 @@ O objetivo deste projeto foi aprender conceitos básicos sobre Bootstrap.
 | -------------  | --- |
 | :sparkles: Daiana        | **Landing page fruta&fruto**
 | :label: Tecnologias | javascript, html5, css3, bootstrap
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://voluble-kangaroo-71880c.netlify.app/
 | :mortar_board: certificado     | https://cursos.alura.com.br/user/dai-koblitz/course/bootstrap-landing-page/certificate 🎓
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://user-images.githubusercontent.com/69736274/216841590-b53bbb76-b807-4cf3-937f-36f048a2d344.gif#vitrinedev)
 
 ---
 
